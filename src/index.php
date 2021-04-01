@@ -2,3 +2,4 @@
 /**
  * HAPPY APRIL FOOLS DAY
  */
+echo "HAPPY APRIL FOOLS DAY";
