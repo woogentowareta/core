@@ -1,4 +1,7 @@
 {
+  "name": "woogentowareta/core",
+  "description": "Woongentwareta is the ecommerce platform which utilizes the best features of ecommerces frameworks.",
+  "type": "project",
   "happy": {
     "day": "April Fools!"
   }
